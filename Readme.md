@@ -5,4 +5,4 @@ The database used was MSSQL with seeding of the required data present in the sol
 
 As mentioned the binary files are missing but can be found in the project of the email sent. An executable for the project can be found in this folder. Alternatively the application can be launched from Visual Studio.
 
-The application was tested with postman using successful and unsucessful tests.
+The application was tested with postman using successful and unsucessful tests for validation as required in the spec.
